@@ -46898,5 +46898,12 @@
     "author": "Juehming Shi",
     "description": "High-performance offline markdown dictionary reader & lookup engine for Obsidian. 專為巨型 Markdown 辭典設計，支援 Byte 切片秒開、三種檢索模式與劃詞即查。 - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jmedzen/ezdict"
+  },
+  {
+    "id": "claudian-scheduler",
+    "name": "Claudian 定时发送",
+    "author": "XIKONGSAKET",
+    "description": "Schedule tasks to Claudian chat tabs so DeepSeek API requests are sent during off-peak hours (00:30-08:30 Beijing time), cutting token costs by 50%-75%.",
+    "repo": "XIKONGSAKET/claudian-scheduler"
   }
 ]
